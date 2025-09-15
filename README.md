@@ -31,7 +31,8 @@ I specialize in Apex development, Lightning Web Components (LWC), CPQ configurat
 ## 📫 Connect with Me
 
 - 📧 Email: [anita.mits@gmail.com](mailto:anita.mits@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/anitamits](https://www.linkedin.com/in/anitamits/)  
+- 💼 LinkedIn: [linkedin.com/in/anitamits](https://www.linkedin.com/in/anitamits/)
+- 💼 Trailblazer: [salesforce.com/trailblazer/coolanita](https://www.salesforce.com/trailblazer/coolanita)
 
 ---
 

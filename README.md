@@ -27,6 +27,17 @@ I specialize in Apex development, Lightning Web Components (LWC), CPQ configurat
 - **Custom LWC Components** – Created reusable Lightning components (file uploader, dynamic grids, opportunity dashboards).  
 
 ---
+## 🏅 Certifications  
+
+[![Salesforce Administrator](https://img.shields.io/badge/Salesforce-Administrator-blue?logo=salesforce&style=for-the-badge)](https://www.salesforce.com/certifications/administrator/)  
+[![Platform Developer I](https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?logo=salesforce&style=for-the-badge)](https://www.salesforce.com/certifications/platform-developer-i/)  
+[![Salesforce CPQ Specialist](https://img.shields.io/badge/Salesforce-CPQ%20Specialist-orange?logo=salesforce&style=for-the-badge)](https://www.salesforce.com/certifications/cpq-specialist/)  
+[![JavaScript Developer I](https://img.shields.io/badge/Salesforce-JavaScript%20Developer%20I-yellow?logo=javascript&style=for-the-badge)](https://www.salesforce.com/certifications/javascript-developer-i/)  
+[![AI Associate](https://img.shields.io/badge/Salesforce-AI%20Associate-00A1E0?logo=salesforce&style=for-the-badge)](https://www.salesforce.com/certifications/ai-associate/)  
+[![Agentforce Specialist](https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-009EDB?logo=salesforce&style=for-the-badge)](https://www.salesforce.com/certifications/)  
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
+
+---
 
 ## 📫 Connect with Me
 
